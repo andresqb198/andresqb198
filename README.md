@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain: el futuro de la confianza en la era digital](https://medium.com/@andres.quintero8/blockchain-el-futuro-de-la-confianza-en-la-era-digital-1be968e947a?source=rss-38672b1d43cb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
