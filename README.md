@@ -32,6 +32,6 @@
 
 ![andresqb198's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresqb198&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresqb198&layout=compact)](https://github.com/andresqb198/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresqb198})](https://github.com/andresqb198/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresqb198&" alt="andresqb198" /></p>
