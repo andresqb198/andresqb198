@@ -34,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresqb198&layout=)](https://github.com/andresqb198/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresqb198/" alt="andresqb198" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresqb198&theme=dark)](https://git.io/streak-stats)
