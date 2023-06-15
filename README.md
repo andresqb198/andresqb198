@@ -33,7 +33,7 @@
 ![andresqb198's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresqb198&show_icons=true&theme=radical)
 
 
-[![andresqb198's Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=andresqb198&theme=radical&show_icons=true)
+![andresqb198's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andresqb198&theme=radical&show_icons=true)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andresqb198&theme=dark)](https://git.io/streak-stats)
