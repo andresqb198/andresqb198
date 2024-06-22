@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **All the subjects related to SRE applied in AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/andresqb198](https://github.com/andresqb198)
+- 👨‍💻 All of my projects are available at [https://andresqb198.github.io/dres.dev/](https://andresqb198.github.io/dres.dev/)
 
 - 📝 I regularly write articles on [https://medium.com/@andres.quintero8](https://medium.com/@andres.quintero8)
 
